@@ -1,6 +1,8 @@
 scoreboard players reset @s SoundSample
 advancement revoke @s only soundsample:update
 
+execute if score #UpdateFavs SoundSample matches 1 run function soundsample:favorite/init
+execute if score #UpdateFavs SoundSample matches 1 run scoreboard players reset #UpdateFavs SoundSample
 execute if score #UpdatePage1 SoundSample matches 1 run function soundsample:page/1
 execute if score #UpdatePage1 SoundSample matches 1 run scoreboard players reset #UpdatePage1 SoundSample
 execute if score #UpdatePage2 SoundSample matches 1 run function soundsample:page/2
