@@ -2,7 +2,7 @@
 
 Minecraft /playsound command helper datapack
 
-[![thumbnail](https://pbs.twimg.com/media/EdwoTVOUMAAjyWt?format=png&name=small)
+![thumbnail](https://pbs.twimg.com/media/EdwoTVOUMAAjyWt?format=png&name=small)
 
 # Usage
 
