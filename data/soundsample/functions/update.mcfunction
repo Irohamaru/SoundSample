@@ -113,3 +113,27 @@ execute if score #UpdatePage54 SoundSample matches 1 run function soundsample:pa
 execute if score #UpdatePage54 SoundSample matches 1 run scoreboard players reset #UpdatePage54 SoundSample
 execute if score #UpdatePage55 SoundSample matches 1 run function soundsample:page/55
 execute if score #UpdatePage55 SoundSample matches 1 run scoreboard players reset #UpdatePage55 SoundSample
+execute if score #UpdatePage56 SoundSample matches 1 run function soundsample:page/56
+execute if score #UpdatePage56 SoundSample matches 1 run scoreboard players reset #UpdatePage56 SoundSample
+execute if score #UpdatePage57 SoundSample matches 1 run function soundsample:page/57
+execute if score #UpdatePage57 SoundSample matches 1 run scoreboard players reset #UpdatePage57 SoundSample
+execute if score #UpdatePage58 SoundSample matches 1 run function soundsample:page/58
+execute if score #UpdatePage58 SoundSample matches 1 run scoreboard players reset #UpdatePage58 SoundSample
+execute if score #UpdatePage59 SoundSample matches 1 run function soundsample:page/59
+execute if score #UpdatePage59 SoundSample matches 1 run scoreboard players reset #UpdatePage59 SoundSample
+execute if score #UpdatePage60 SoundSample matches 1 run function soundsample:page/60
+execute if score #UpdatePage60 SoundSample matches 1 run scoreboard players reset #UpdatePage60 SoundSample
+execute if score #UpdatePage61 SoundSample matches 1 run function soundsample:page/61
+execute if score #UpdatePage61 SoundSample matches 1 run scoreboard players reset #UpdatePage61 SoundSample
+execute if score #UpdatePage62 SoundSample matches 1 run function soundsample:page/62
+execute if score #UpdatePage62 SoundSample matches 1 run scoreboard players reset #UpdatePage62 SoundSample
+execute if score #UpdatePage63 SoundSample matches 1 run function soundsample:page/63
+execute if score #UpdatePage63 SoundSample matches 1 run scoreboard players reset #UpdatePage63 SoundSample
+execute if score #UpdatePage64 SoundSample matches 1 run function soundsample:page/64
+execute if score #UpdatePage64 SoundSample matches 1 run scoreboard players reset #UpdatePage64 SoundSample
+execute if score #UpdatePage65 SoundSample matches 1 run function soundsample:page/65
+execute if score #UpdatePage65 SoundSample matches 1 run scoreboard players reset #UpdatePage65 SoundSample
+execute if score #UpdatePage66 SoundSample matches 1 run function soundsample:page/66
+execute if score #UpdatePage66 SoundSample matches 1 run scoreboard players reset #UpdatePage66 SoundSample
+execute if score #UpdatePage67 SoundSample matches 1 run function soundsample:page/67
+execute if score #UpdatePage67 SoundSample matches 1 run scoreboard players reset #UpdatePage67 SoundSample
